@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="fr"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Paiement non abouti</title>
+<body style="font-family:sans-serif;text-align:center;padding:2rem">
+  <h2>Paiement non abouti ❌</h2>
+  <p>Aucun montant n'a été débité. Retournez dans l'application pour réessayer.</p>
+  <a href="intent://payment/error#Intent;scheme=auradoc;package=com.ton.package;end">
+    Ouvrir l'application
+  </a>
+</body></html>
