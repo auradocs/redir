@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="fr"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Paiement effectué</title>
+<body style="font-family:sans-serif;text-align:center;padding:2rem">
+  <h2>Paiement effectué ✅</h2>
+  <p>Retournez dans l'application pour continuer.</p>
+  <a href="intent://payment/success#Intent;scheme=auradoc;package=com.ton.package;end">
+    Ouvrir l'application
+  </a>
+</body></html>
